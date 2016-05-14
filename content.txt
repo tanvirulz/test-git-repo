@@ -1,4 +1,4 @@
-(A) <-- (B) <-- (C)
-new data insterted.
-
+(A) <-- (B) <-- (C) 
+new data insterted.  
 add new feature.
+something must have went wron!! 
