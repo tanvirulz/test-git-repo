@@ -1,3 +1,10 @@
 # The header is fixed here.
-(A) <-- (B) <-- (C)
+                +-------- (E) -- (F) -- (G)
+               /                         |
+(A) -- (B) -- (C) -- (D) -- (H)          |
+                             |           |
+                            master     feature
+                             |
+                            HEAD
 new data insterted.
+
