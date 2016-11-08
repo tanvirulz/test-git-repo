@@ -13,4 +13,4 @@ Let's see if the credential helper is working!
 
 Another test for the credential helper.
 Credentials should be cached temporily now. 
-
+add new text. to test cache. 
